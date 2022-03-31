@@ -1,1 +1,1 @@
-# Applicant
+# Student application
